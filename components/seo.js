@@ -3,10 +3,10 @@ import Head from 'next/head'
 
 export default function Seo() {
   const site = {
-    title: 'Adem ilter - Design and Code',
-    description: 'Frontend Developer from Istanbul',
+    title: 'Alperen Unal - Design and Code',
+    description: 'iOS Developer from Turkey',
     url: 'https://ademilter.com',
-    twitter: '@ademilter'
+    twitter: '@alperenunal68'
   }
 
   return (
