@@ -22,30 +22,26 @@ export default function Index() {
           <b>
             I build pixel-perfect <span className="nowrap">pages 👌</span>{' '}
             smooth <span className="nowrap">animations 🦄</span> and performant
-            web <span className="nowrap">applications 💯</span>{' '}
+            iOS <span className="nowrap">applications 💯</span>{' '}
           </b>
           <br />
           <Typist.Delay ms={500} />
           <br />
           <Typist.Delay ms={500} />I{' '}
-          <a href="https://twitter.com/ademilter" target="_blank">
+          <a href="https://twitter.com/alperenunal68" target="_blank">
             tweet
           </a>
           , take{' '}
-          <a href="https://www.instagram.com/ademilter/" target="_blank">
+          <a href="https://www.instagram.com/alperenunal23" target="_blank">
             photos
           </a>
-          , record{' '}
-          <a href="https://www.youtube.com/user/ademilter/" target="_blank">
-            videos
-          </a>
           , push{' '}
-          <a href="https://github.com/ademilter" target="_blank">
+          <a href="https://github.com/alperen23230" target="_blank">
             code
           </a>{' '}
           and share{' '}
-          <a href="https://t.me/feyzli" target="_blank">
-            feyz
+          <a href="https://medium.com/@alperenunal68" target="_blank">
+            blog posts
           </a>{' '}
         </Typist>
       </div>
