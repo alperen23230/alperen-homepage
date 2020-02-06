@@ -5,7 +5,7 @@ export default function Seo() {
   const site = {
     title: 'Alperen Unal - Design and Code',
     description: 'iOS Developer from Turkey',
-    url: 'https://ademilter.com',
+    url: 'https://alperen-homepage.now.sh',
     twitter: '@alperenunal68'
   }
 
